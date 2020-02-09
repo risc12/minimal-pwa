@@ -1,0 +1,10 @@
+{
+    "name": "Minimal PWA",
+    "short_name": "minimal-pwa",
+    "description": "Super barebones PWA",
+    "icons": [],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#000",
+    "background_color": "#000"
+}
